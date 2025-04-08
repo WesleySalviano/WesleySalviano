@@ -1,4 +1,4 @@
-#Consultas SQL com funções de janela e análise temporal - desafio técnico para vaga de dados.#
+#Consultas SQL com funções de janela e análise temporal - desafio técnico para vaga junior data analyst.#
 
 Este projeto contém duas consultas SQL desenvolvidas para resolver um desafio envolvendo três tabelas relacionais: `students`, `courses` e `schools`.
 
